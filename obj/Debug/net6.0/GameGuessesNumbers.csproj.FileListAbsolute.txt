@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\GameGuessesNumbers\bin\Debug\net6.0\GameGuessesNumbers.exe
+C:\Users\PC\source\repos\GameGuessesNumbers\bin\Debug\net6.0\GameGuessesNumbers.deps.json
+C:\Users\PC\source\repos\GameGuessesNumbers\bin\Debug\net6.0\GameGuessesNumbers.runtimeconfig.json
+C:\Users\PC\source\repos\GameGuessesNumbers\bin\Debug\net6.0\GameGuessesNumbers.dll
+C:\Users\PC\source\repos\GameGuessesNumbers\bin\Debug\net6.0\GameGuessesNumbers.pdb
+C:\Users\PC\source\repos\GameGuessesNumbers\obj\Debug\net6.0\GameGuessesNumbers.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GameGuessesNumbers\obj\Debug\net6.0\GameGuessesNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\GameGuessesNumbers\obj\Debug\net6.0\GameGuessesNumbers.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\GameGuessesNumbers\obj\Debug\net6.0\GameGuessesNumbers.AssemblyInfo.cs
+C:\Users\PC\source\repos\GameGuessesNumbers\obj\Debug\net6.0\GameGuessesNumbers.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GameGuessesNumbers\obj\Debug\net6.0\GameGuessesNumbers.dll
+C:\Users\PC\source\repos\GameGuessesNumbers\obj\Debug\net6.0\refint\GameGuessesNumbers.dll
+C:\Users\PC\source\repos\GameGuessesNumbers\obj\Debug\net6.0\GameGuessesNumbers.pdb
+C:\Users\PC\source\repos\GameGuessesNumbers\obj\Debug\net6.0\GameGuessesNumbers.genruntimeconfig.cache
+C:\Users\PC\source\repos\GameGuessesNumbers\obj\Debug\net6.0\ref\GameGuessesNumbers.dll
